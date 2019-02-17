@@ -1,4 +1,4 @@
-This is test content for start file. 
+This is test content for start file
 
 Second line for feature-1
 
