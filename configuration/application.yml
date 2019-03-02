@@ -1,3 +1,1 @@
-configuration:
-  property:
-    value: dipeshhello
+configuration.property.value:dipeshhello
